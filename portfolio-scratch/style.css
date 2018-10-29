@@ -9,7 +9,12 @@
 }
 
 .header {
-	z-index: 1000
+	z-index: 1000;
+	
+}
+
+.header-content {
+	opacity:0.7;
 
 }
 .footer {
@@ -18,7 +23,7 @@
     bottom: 0;
     background-color: black;
     color: white;
-    opacity:0.7;
+    opacity:0.5;
 }
 
  .footer-content p {
